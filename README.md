@@ -3,6 +3,9 @@
 !--
 **Ousuke917/Ousuke917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+My Certifications in AI and Data Science
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
