@@ -3,8 +3,12 @@
 !--
 **Ousuke917/Ousuke917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My Certifications in AI and Data Science
-<img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/dea042be-bf72-4425-aae4-235d7d441187" />
+## My Certifications in AI and Data Science
+<a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/OVAxTU9KQ2cyRDV5MHhabXhNTlArZz09">
+  <img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/dea042be-bf72-4425-aae4-235d7d441187" />
+</a>
+<a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/d3dGYlZXcVRvc2FPOVllSHNpMW5wdz09">
+  
 
 Here are some ideas to get you started:
 
